@@ -1,1 +1,1 @@
-Code Uses Deep learning to detect Rice Disease detection
+Code uses deep learning to detect rice diseases.
