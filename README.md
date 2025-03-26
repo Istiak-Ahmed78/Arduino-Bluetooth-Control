@@ -1,1 +1,1 @@
-Arduino project to control a LED vai Bluetooth communication
+Code Uses Deep learning to detect Rice Disease detection
